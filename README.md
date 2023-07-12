@@ -1,0 +1,2 @@
+# coreModulesAssignments
+Core modules assignments
